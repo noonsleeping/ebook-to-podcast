@@ -1,5 +1,7 @@
 # ebook-to-podcast
 
+**🌐 Language / 语言：** [English](README.md) &nbsp;|&nbsp; 中文
+
 一个 Claude Code skill，将电子书（PDF 或 EPUB）按章节拆分，搜索权威书评，并生成结构化中文书评报告——只需一条指令即可完成。
 
 > **开发中。** 章节拆分和书评报告生成功能已完成。原计划包含自动上传到 [NotebookLM](https://notebooklm.google.com/) 生成 AI 播客，但由于非官方 NotebookLM CLI 不稳定，该步骤暂时移除。你仍可以手动将导出的章节文件上传到 NotebookLM。

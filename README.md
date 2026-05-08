@@ -1,5 +1,7 @@
 # ebook-to-podcast
 
+**🌐 Language / 语言：** English &nbsp;|&nbsp; [中文](README.zh.md)
+
 A Claude Code skill that splits an ebook (PDF or EPUB) into chapters, searches for authoritative reviews, and generates a structured book-review report — all from a single command.
 
 > **Work in progress.** Chapter splitting and review report generation are complete. The original roadmap included auto-upload to [NotebookLM](https://notebooklm.google.com/) for AI podcast generation, but that step has been removed for now because the unofficial NotebookLM CLI is too unstable for reliable automation. You can still upload the exported chapter files to NotebookLM manually.
