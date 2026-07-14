@@ -37,7 +37,7 @@ Python is not required separately — `uv` manages it automatically.
 Paste the following into any Claude session:
 
 ```
-Please install the ebook-to-podcast skill from https://github.com/noonsleeping/ebook-to-podcast
+Please install the ebook-to-podcast skill from https://github.com/linkc-skills/ebook-to-podcast
 Clone the repo, run install.sh, and follow the prompts.
 ```
 
@@ -46,7 +46,7 @@ Claude will clone the repo, run `install.sh`, and walk you through the path conf
 ### Option B — Manual install
 
 ```bash
-git clone https://github.com/noonsleeping/ebook-to-podcast.git
+git clone https://github.com/linkc-skills/ebook-to-podcast.git
 cd ebook-to-podcast
 bash install.sh
 ```
@@ -143,6 +143,7 @@ MIT — see [LICENSE](LICENSE)
 
 ## Related
 
+- [Linkc Skills](https://github.com/linkc-skills) — more open-source Agent Skills
 - [Claude Code](https://claude.ai/claude-code)
 - [NotebookLM](https://notebooklm.google.com/) — upload exported chapters here for AI podcast generation
 - [uv](https://github.com/astral-sh/uv)

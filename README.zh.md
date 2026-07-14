@@ -37,7 +37,7 @@
 将以下内容粘贴到任意 Claude 会话中：
 
 ```
-请从 https://github.com/noonsleeping/ebook-to-podcast 安装 ebook-to-podcast skill。
+请从 https://github.com/linkc-skills/ebook-to-podcast 安装 ebook-to-podcast skill。
 克隆仓库，运行 install.sh，按提示完成配置。
 ```
 
@@ -46,7 +46,7 @@ Claude 会自动克隆仓库、运行 `install.sh`，并引导你完成路径配
 ### 方式 B — 手动安装
 
 ```bash
-git clone https://github.com/noonsleeping/ebook-to-podcast.git
+git clone https://github.com/linkc-skills/ebook-to-podcast.git
 cd ebook-to-podcast
 bash install.sh
 ```
@@ -136,6 +136,7 @@ MIT — 详见 [LICENSE](LICENSE)
 
 ## 相关链接
 
+- [Linkc Skills](https://github.com/linkc-skills) — 更多开源 Agent Skills
 - [Claude Code](https://claude.ai/claude-code)
 - [NotebookLM](https://notebooklm.google.com/) — 将导出章节上传到这里生成 AI 播客
 - [uv](https://github.com/astral-sh/uv)
